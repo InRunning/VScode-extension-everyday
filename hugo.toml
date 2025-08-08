@@ -1,5 +1,9 @@
 baseURL = 'https://inrunning.github.io/VScode-extension-everyday/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'VSCode Extension Everyday'
+theme = 'hugo-book'
 publishDir = 'docs'
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'dark'

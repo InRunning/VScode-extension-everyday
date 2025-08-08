@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VSCode Extension Everyday</title>
+    <link>http://localhost:56416/VScode-extension-everyday/docs/global/</link>
+    <description>Recent content on VSCode Extension Everyday</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:56416/VScode-extension-everyday/docs/global/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:56416/VScode-extension-everyday/docs/global/folder-alias/folder-alias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56416/VScode-extension-everyday/docs/global/folder-alias/folder-alias/</guid>
+      <description>&lt;h1 id=&#34;folder-alias-extension&#34;&gt;&#xA;  folder-alias extension&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#folder-alias-extension&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;rating-1-to-5-stars&#34;&gt;&#xA;  Rating (1 to 5 stars)&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#rating-1-to-5-stars&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;⭐️⭐️⭐️⭐️⭐️&lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;&#xA;  Summary&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#summary&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Adds annotations to the right of folders and files in the Explorer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;usage&#34;&gt;&#xA;  Usage&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#usage&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Right-click the folder or file you want to add a remark (alias) for.&lt;/li&gt;&#xA;&lt;li&gt;Select &amp;ldquo;Add Alias&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Enter the remark and press Enter.&lt;/li&gt;&#xA;&lt;li&gt;The remark will appear in the file tree.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;You can manage remarks in either of the following ways:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

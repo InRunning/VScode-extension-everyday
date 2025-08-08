@@ -1,1 +1,146 @@
-{}
+{
+    "hugo.toml": {
+        "description": "Hugo 配置（站点级参数、主题、发布目录等）"
+    },
+    "folder-alias.json": {
+        "description": "目录别名与注释清单"
+    },
+    "LICENSE": {
+        "description": "开源许可证"
+    },
+    "log.md": {
+        "description": "变更日志"
+    },
+    "archetypes": {
+        "description": "内容原型（hugo new 使用的模板）"
+    },
+    "assets": {
+        "description": "样式/脚本等可经 Hugo 管道处理的资源"
+    },
+    "content": {
+        "description": "主要编辑内容（Markdown 文档与文章）"
+    },
+    "content/_index.md": {
+        "description": "站点首页索引（列表页）"
+    },
+    "content/docs": {
+        "description": "文档区根（Book 主题侧栏菜单来源）"
+    },
+    "content/docs/example": {
+        "description": "示例章节（多级菜单/隐藏/折叠示例）"
+    },
+    "content/docs/shortcodes": {
+        "description": "短代码示例（badges/buttons/columns 等）"
+    },
+    "content/posts": {
+        "description": "博客文章（支持分类/标签）"
+    },
+    "data": {
+        "description": "数据文件（YAML/TOML/JSON，供模板读取）"
+    },
+    "docs": {
+        "description": "程序生成的网页（发布目录，GitHub Pages 可指向此处）"
+    },
+    "i18n": {
+        "description": "国际化翻译文件"
+    },
+    "layouts": {
+        "description": "自定义模板（可覆盖主题布局）"
+    },
+    "resources": {
+        "description": "Hugo 构建缓存与生成的管道产物"
+    },
+    "static": {
+        "description": "静态资源（原样拷贝到站点根）"
+    },
+    "themes": {
+        "description": "主题目录"
+    },
+    "themes/ananke": {
+        "description": "Ananke 主题"
+    },
+    "themes/hugo-book": {
+        "description": "Hugo Book 主题"
+    },
+    "content/docs/example/_index.md": {
+        "description": "示例章节索引（扁平化展示）"
+    },
+    "content/docs/example/hidden.md": {
+        "description": "隐藏于菜单的示例页面（bookHidden: true）"
+    },
+    "content/docs/example/collapsed/_index.md": {
+        "description": "折叠小节示例（bookCollapseSection: true）"
+    },
+    "content/docs/example/collapsed/3rd-level/_index.md": {
+        "description": "三级菜单示例索引"
+    },
+    "content/docs/example/collapsed/3rd-level/4th-level.md": {
+        "description": "四级菜单页面示例"
+    },
+    "content/docs/example/table-of-contents/_index.md": {
+        "description": "目录（ToC）示例索引"
+    },
+    "content/docs/example/table-of-contents/with-toc.md": {
+        "description": "带 ToC 的页面示例"
+    },
+    "content/docs/example/table-of-contents/without-toc.md": {
+        "description": "关闭 ToC 的页面示例（bookToc: false）"
+    },
+    "content/docs/shortcodes/_index.md": {
+        "description": "短代码章节索引（扁平化）"
+    },
+    "content/docs/shortcodes/badges.md": {
+        "description": "徽章短代码示例"
+    },
+    "content/docs/shortcodes/buttons.md": {
+        "description": "按钮短代码示例"
+    },
+    "content/docs/shortcodes/columns.md": {
+        "description": "列布局短代码示例"
+    },
+    "content/docs/shortcodes/details.md": {
+        "description": "详情/折叠短代码示例"
+    },
+    "content/docs/shortcodes/hints.md": {
+        "description": "提示/告警短代码示例，含 Markdown Alerts"
+    },
+    "content/docs/shortcodes/katex.md": {
+        "description": "KaTeX 数学公式示例"
+    },
+    "content/docs/shortcodes/mermaid.md": {
+        "description": "Mermaid 图表示例"
+    },
+    "content/docs/shortcodes/section/_index.md": {
+        "description": "Section 列表短代码示例索引（隐藏/折叠）"
+    },
+    "content/docs/shortcodes/section/first-page.md": {
+        "description": "Section 第一页示例"
+    },
+    "content/docs/shortcodes/section/second-page.md": {
+        "description": "Section 第二页示例"
+    },
+    "content/docs/shortcodes/steps.md": {
+        "description": "步骤短代码示例"
+    },
+    "content/docs/shortcodes/tabs.md": {
+        "description": "标签页短代码示例"
+    },
+    "content/posts/_index.md": {
+        "description": "博客索引（菜单：Blog）"
+    },
+    "content/posts/creating-a-new-theme.md": {
+        "description": "教程：Creating a New Theme（创建新主题）"
+    },
+    "content/posts/goisforlovers.md": {
+        "description": "(Hu)go Template Primer 教程文章"
+    },
+    "content/posts/hugoisforlovers.md": {
+        "description": "Hugo 入门文章示例"
+    },
+    "content/posts/migrate-from-jekyll.md": {
+        "description": "从 Jekyll 迁移教程文章"
+    },
+    "content/posts/my-first-post.md": {
+        "description": "示例首篇博客"
+    }
+}
