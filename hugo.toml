@@ -1,0 +1,4 @@
+baseURL = 'https://inrunning.github.io/VScode-extension-everyday/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
