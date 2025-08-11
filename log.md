@@ -13,3 +13,7 @@
 
 
 - 更新 `content/_index.md`：将列表改为层级有序列表，并将第二项改为指向文档页面的链接：`[folder-alias](/docs/global/folder-alias/)`。
+
+## 2025-08-11
+
+- 新增英文文档 `content/docs/global/codeTour/codeTour.md`：将 `content.zh/docs/global/codeTour/codeTour.md` 翻译为英文；包含 Front Matter、推荐星级、简介、使用步骤与工作原理，并补充官方 MarketPlace 的 Tour Schema 链接。

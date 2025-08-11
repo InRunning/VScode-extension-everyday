@@ -8,7 +8,7 @@ title: ""
 ## VSCode extension link
 [folder-alias](https://marketplace.visualstudio.com/items?itemName=rikka.folder-alias)
 
-## Recommendation (1–5 stars)
+## Rating (1 to 5 stars)
 ⭐️⭐️⭐️⭐️⭐️
 
 ## category
